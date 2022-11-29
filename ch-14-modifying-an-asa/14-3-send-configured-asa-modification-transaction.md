@@ -1,0 +1,42 @@
+# 14.3: Send a Configured Transaction to Modify an ASA
+
+## What We Are Going To Do
+
+In this section we will sign and send an configured ASA modification transaction.
+
+## Learning Objective
+
+By the end of this section student should be able to
+
+## Getting Started
+1. First we need to sign the transaction that our `configure_transaction_to_update_asset()` function returns:
+```python
+# main.py
+# ...
+
+signed_transaction = transaction.sign(asset_manager['private_key'])
+```
+2. Next, copy the `send.py` file we created in chapter 13:
+```sh
+cp ../chapter-13-creating-an-algorand-standard-asset/send.py ../chapter-14-modifying-an-asa;
+```
+3. Then in the `main.py` file import the `send_configured_transaction()` function from the `send.py` file:
+```python
+# main.py
+# ...
+from send import send_configured_transaction
+
+# ...
+```
+4. Then created a variable called `confirmed_transaction` which stores the returned value of the `send_configured_transaction()` function:
+```python
+# main.py
+
+# ...
+
+confirmed_transaction = send_configured_transaction(algod_client, signed_transaction)
+```
+8. Finally, run the code and explain the output
+```sh
+python3 main.py
+```
