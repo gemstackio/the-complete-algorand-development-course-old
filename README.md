@@ -7,15 +7,21 @@
 
 # The Complete Algorand Development Course
 
-As a recipient of the Algo grant program GemStack has designed and developed the [Algorand Network Development Course](https://www.gemstack.academy/p/algorand-course).
+As a recipient of the Algo grant program [GemStack](https://gemstack.io/) has designed and developed [The Complete Algorand Network Development Course](https://www.gemstack.academy/p/algorand-course).
 
 This self-paced cutting-edge curriculum lowers the bar of entry into the Web 3.0 ecosystem by instructing Web 2.0 Engineers on Web 3.0 development within the Algorand ecosystem.
 
-The [Algorand Network Development](https://www.gemstack.academy/p/algorand-course) course will immerse students in learning via recorded lectures that not only explain topics in bite-sized and digestible ways but demonstrate the proper way of developing real-world applications with PyTeal and the Algorand SDK. Students will reinforce their learning by completing exercises and projects to reinforce various topics such as NFTs, ASA, DOA, dApp development, and much more.
+[The Complete Algorand Network Development Course](https://www.gemstack.academy/p/algorand-course) course will immerse students in learning via recorded lectures that not only explain topics in bite-sized and digestible ways.
 
-The text in this repository is supporting text materials for the [Algorand Development Course](https://www.gemstack.academy/p/algorand-course).
+Students will start by first learning about the fundamentals of blockchain as a technology finding answers to questions like, "What is a blockchain?", "What is a block?", "What is cryptography?", and "What makes the Algorand Network different than other blockchains?".
 
-**Register Here for the [Algorand Development Course](https://www.gemstack.academy/p/algorand-course)**
+Then students will learn how to leverage tools such as PyTeal, the Algorand SDK (JS and Python), AlgoBuilder, AlgoSigner, and React; to develop Algorand Standard Assets (Fungible and Non-Fungible token), Atomic Transfers, dApps, and much more.
+
+The text in this repository is supporting text which is meant to be used in conjunction with the self-paced [Complete Algorand Network Development Course](https://www.gemstack.academy/p/algorand-course) on the GemStack academy website.
+
+You can **register here** for [The Complete Algorand Network Development Course](https://www.gemstack.academy/p/algorand-course)** self-paced course.
+
+Happy Hacking and Welcome to the Algorand Network.
 
 ## Unit 1: Blockchain & Crypto Basics
 In this Unit, we will be covering the functions, use cases, and applications of blockchain technology. This will include the basics of crypto-currencies, transactions/consensus, and the type of crypto applications that are utilized on a blockchain.
@@ -42,7 +48,7 @@ In this module, engineers will be exploring the history of blockchain, demystify
 
 ### Module 2: Crypto Basics
 
-In this module, engineers will be learning about cryptocurrencies, types of tokens, and explore the intricacies of cryptocurrency wallets.
+In this module, engineers will be learning about cryptocurrencies, and types of tokens, and explore the intricacies of cryptocurrency wallets.
 
 * [Chapter 5: CryptoCurrencies](./ch-5-cryptocurrency.md)
 * [Chapter 6: Crypto Wallets](./ch-6-crypto-wallets.md)
