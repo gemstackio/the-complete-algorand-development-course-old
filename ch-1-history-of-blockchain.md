@@ -168,14 +168,35 @@ The last key characteristic we will cover is a fairly simple one, faster `settle
 
 ## Glossary
 
-* `Block`: A data structure within the `blockchain` database, where transaction data in a cryptocurrency `blockchain` is permanently recorded.
-* `Blockchain`: A distributed database in which a record of transactions made in a cryptocurrency is maintained across several computers that are linked in a peer-to-peer network.
-* `Blockchain trilemma`: A concept created by programmer Vitaly Buterin, that addresses challenges programmers face when creating blockchain technology that is scalable, decentralized, and secure, without compromising any of the three.
-* `Consensus`: A fault-tolerant mechanism that is used in computer and blockchain systems to achieve the necessary agreement on a single data value or a single state of the network among distributed processes or multi-agent systems, such as with cryptocurrencies.
-* `Crypto` : Combining form representing Greek kryptós "hidden" or "secret," used in the formation of compound words.
-* `Cryptography` : The study and practice of sending secure, encrypted messages between two or more parties.
-* `Decentralized Technology`: The transfer of control and decision-making from a centralized entity (individual, organization, or group thereof) to a distributed network.
-* `Distributed Ledger`: A consensus of replicated, shared, and synchronized digital data geographically spread across multiple sites, countries, or institutions.
-* `Immutability` : Not capable of or susceptible to change.
-* `Settlement`: The transfer of ownership involving the physical exchange of securities or payment.
-* `Security`: Blockchain security is a comprehensive risk management system for a blockchain network, using cybersecurity frameworks, assurance services, and best practices to reduce risks against attacks and fraud.
+Block
+: A data structure within the `blockchain` database, where transaction data in a cryptocurrency `blockchain` is permanently recorded.
+
+Blockchain
+: A distributed database in which a record of transactions made in a cryptocurrency is maintained across several computers that are linked in a peer-to-peer network.
+
+Blockchain trilemma
+: A concept created by programmer Vitaly Buterin, that addresses challenges programmers face when creating blockchain technology that is scalable, decentralized, and secure, without compromising any of the three.
+
+Consensus
+: A fault-tolerant mechanism that is used in computer and blockchain systems to achieve the necessary agreement on a single data value or a single state of the network among distributed processes or multi-agent systems, such as with cryptocurrencies.
+
+Crypto
+: Combining form representing Greek kryptós "hidden" or "secret," used in the formation of compound words.
+
+Cryptography
+: The study and practice of sending secure, encrypted messages between two or more parties.
+
+Decentralized Technology
+: The transfer of control and decision-making from a centralized entity (individual, organization, or group thereof) to a distributed network.
+
+Distributed Ledger
+: A consensus of replicated, shared, and synchronized digital data geographically spread across multiple sites, countries, or institutions.
+
+Immutability
+: Not capable of or susceptible to change.
+
+Settlement
+: The transfer of ownership involving the physical exchange of securities or payment.
+
+Security
+: Blockchain security is a comprehensive risk management system for a blockchain network, using cybersecurity frameworks, assurance services, and best practices to reduce risks against attacks and fraud.

@@ -21,14 +21,14 @@ In this chapter, engineers will be learning about cryptocurrency and its advanta
 - [Cryptocurrency](#cryptocurrency)
   - [Learning Objectives](#learning-objectives)
   - [Table of Contents](#table-of-contents)
-  - [What is Cryptocurrency?](#what-is-cryptocurrency)
+  - [Cryptocurrency](#cryptocurrency-1)
     - [Altcoins](#altcoins)
   - [Advantages of Cryptocurrency](#advantages-of-cryptocurrency)
   - [Disadvantages of Cryptocurrency](#disadvantages-of-cryptocurrency)
   - [Resources](#resources)
   - [Glossary](#glossary)
 
-## What is Cryptocurrency?
+## Cryptocurrency
 
 A `cryptocurrency` is a digital currency secured by cryptography, making it almost impossible to double-spend or counterfeit. Cryptocurrencies are decentralized and based on blockchain technology, which is a distributed ledger enforced smart contracts on a network of nodes.
 

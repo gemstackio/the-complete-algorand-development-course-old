@@ -77,8 +77,18 @@ There are also some examples of other projects working on similar concepts. Fund
 
 ## Glossary
 
-* `Fungibility`: The property of a good or a commodity whose individual units are essentially interchangeable and each of whose parts is indistinguishable from another part.
-* `Fungible Token`: A token or asset that stores value and is easily interchangeable with another cryptocurrency or asset of equal value.
-* `Non-Fungible Token (NFTs)`: Cryptographic assets on a blockchain with unique identification codes and metadata that distinguish them from each other.
-* `Security Token`: A digital, liquid contract for fractions of any asset that already has value.
-* `Token`: A type of cryptocurrency that represents an asset or specific use and reside on a blockchain.
+Fungibility
+: The property of a good or a commodity whose individual units are essentially interchangeable and each of whose parts is indistinguishable from another part.
+
+Fungible Token
+: A token or asset that stores value and is easily interchangeable with another cryptocurrency or asset of equal value.
+
+Non-Fungible Token (NFTs)
+: Cryptographic assets on a blockchain with unique identification codes and metadata that distinguish them from each other.
+
+Security Token
+: A digital, liquid contract for fractions of any asset that already has value.
+
+Token
+: A type of cryptocurrency that represents an asset or specific use and reside on a blockchain.
+
