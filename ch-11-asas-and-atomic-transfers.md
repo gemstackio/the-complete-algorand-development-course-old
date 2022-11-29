@@ -5,7 +5,7 @@
   />
 </p>
 
-# Chapter 3: ASA's and Atomic Transfers
+# Chapter 11: ASA's and Atomic Transfers
 
 ## Learning Objectives
 
@@ -14,7 +14,7 @@
 
 ## Table of Contents
 
-- [Chapter 3: ASA's and Atomic Transfers](#chapter-3-asas-and-atomic-transfers)
+- [Chapter 11: ASA's and Atomic Transfers](#chapter-11-asas-and-atomic-transfers)
   - [Learning Objectives](#learning-objectives)
   - [Table of Contents](#table-of-contents)
   - [What is an ASA](#what-is-an-asa)
