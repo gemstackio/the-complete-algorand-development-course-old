@@ -20,14 +20,14 @@ In this chapter, engineers will learn about wallets and their use-case when it c
 - [Crypto Wallets](#crypto-wallets)
   - [Learning Objectives](#learning-objectives)
   - [Table of Contents](#table-of-contents)
-  - [What is a Wallet?](#what-is-a-wallet)
+  - [What is a Crypto Wallet?](#what-is-a-crypto-wallet)
   - [Types of Wallets?](#types-of-wallets)
     - [Software Wallets](#software-wallets)
     - [Hardware Wallets](#hardware-wallets)
   - [Resources](#resources)
   - [Glossary](#glossary)
 
-## What is a Wallet?
+## What is a Crypto Wallet?
 
 Even though you can’t fold up your cryptocurrency and put it in your wallet, you can hold your keys to access your assets in a crypto wallet. A crypto wallet is a software program or a physical device that allows you to store your crypto assets and enables you to send and receive crypto/assets.
 
