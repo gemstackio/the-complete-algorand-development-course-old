@@ -17,14 +17,14 @@
 - [Chapter 11: ASA's and Atomic Transfers](#chapter-11-asas-and-atomic-transfers)
   - [Learning Objectives](#learning-objectives)
   - [Table of Contents](#table-of-contents)
-  - [What is an ASA](#what-is-an-asa)
+  - [What is an ASA?](#what-is-an-asa)
   - [Types of ASA's](#types-of-asas)
   - [Creation of an ASA](#creation-of-an-asa)
-  - [What are Atomic Transfers](#what-are-atomic-transfers)
+  - [What are Atomic Transfers?](#what-are-atomic-transfers)
   - [Resources](#resources)
   - [Glossary](#glossary)
 
-## What is an ASA
+## What is an ASA?
 
 `Algorand Standard Assets (ASAs)` are custom, on-chain assets that can represent many different things; stable coins, loyalty points, system credits, in-game points, a deed for a house, collectible items, or even supply chain items. ASA's can represent many different things, and in turn, various types of ASA's exist on the Algorand Network.
 
@@ -56,7 +56,7 @@ Algorand provides a `Software Development Kit (SDK)` which also simplifies the p
 
 Once a transaction for an ASA is on the blockchain and issued, the newly created ASA is then ready for use.
 
-## What are Atomic Transfers
+## What are Atomic Transfers?
 
 Say a user has an asset. How would they transfer it to another user? Traditionally a user would need to have some trusted intermediary, such as a bank or middle person, to confirm the exchange of an asset. `Atomic Transfers` are Algorand's approach to handling these types of situations. An `Atomic Transfer` is a batch operation that groups transactions together and submits them as a single unit that either passes or fails.
 
