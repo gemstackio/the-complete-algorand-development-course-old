@@ -2,7 +2,7 @@
 
 ## What We Are Going To Do
 
-In this section we will learn how to start 
+In this section we will learn how to start
 
 ## Learning Objective
 
