@@ -20,7 +20,7 @@ cd ~/algorand-development/sandbox/;
 ```
 * Please not that this command can take up 10-15 mins or longer to finish the initial setup. Just let it run until you see
 
-![Sandbox installation finished](./images/ch-12-algorand-sandbox-finish.png)
+![Sandbox start up finished](../assets/ch-12/ch-12-sandbox-start-up-finished.jpg)
 
 * If you check your `Docker Desktop` application's `Containers tab` you will see that it now has a `sandbox` container running.
 

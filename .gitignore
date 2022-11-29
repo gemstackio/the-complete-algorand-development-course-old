@@ -3,5 +3,5 @@
 .DS_Store
 node_modules
 venv
-unit-3/m-3-smart-contracts/raw-notes/module-3-rework/chapter-4-walkthrough/venv/*
-unit-3/m-3-smart-contracts/raw-notes/module-3-rework/chapter-4-walkthrough/venv
+pandoc-scripts.sh
+docx-versions
