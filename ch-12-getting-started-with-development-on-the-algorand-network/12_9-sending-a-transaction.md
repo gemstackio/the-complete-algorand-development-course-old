@@ -1,4 +1,4 @@
-# Send a Transaction
+# Sending a Transaction
 
 ## What We Are Going To Do
 In this section we are going to build out a feature that allows us to take an unsigned transaction and send it.
