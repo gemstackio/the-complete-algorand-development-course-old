@@ -21,7 +21,7 @@ In this chapter, engineers will learn about wallets and their use-case when it c
   - [Learning Objectives](#learning-objectives)
   - [Table of Contents](#table-of-contents)
   - [What is a Crypto Wallet?](#what-is-a-crypto-wallet)
-  - [Types of Wallets?](#types-of-wallets)
+  - [Types of Wallets](#types-of-wallets)
     - [Software Wallets](#software-wallets)
     - [Hardware Wallets](#hardware-wallets)
   - [Resources](#resources)
@@ -35,14 +35,14 @@ There are  two key pairs inside your wallet, a private key, and a public key. A 
 
 It is important to remember that cryptocurrency will always exist on its respective blockchain network and the wallet’s software allows users to interact with the balances held on that specific blockchain. Therefore, the assets aren’t stored “in” the wallet per se. rather The wallet itself stores addresses and allows its owner to move their assets.
 
-## Types of Wallets?
+## Types of Wallets
 
 Wallets generally fall under two categories:
 
 1.	**Software wallets**
 2.	**Hardware wallets**
 
-`Software wallets` are usually desktop, browser, or mobile extensions that make it easy to store, send, and receive cryptocurrency. `Software wallets` sometimes a nicknamed ‘hot wallets’ because the assets are always kept online. `Hardware wallets` serve the same purpose as `software wallets` but are physical devices that can be plugged into a computer. They are often referred to as ‘cold storage’ because their private keys are held offline. 
+`Software wallets` are usually desktop, browser, or mobile extensions that make it easy to store, send, and receive cryptocurrency. `Software wallets` sometimes a nicknamed ‘hot wallets’ because the assets are always kept online. `Hardware wallets` serve the same purpose as `software wallets` but are physical devices that can be plugged into a computer. They are often referred to as ‘cold storage’ because their private keys are held offline.
 
 ### Software Wallets
 
