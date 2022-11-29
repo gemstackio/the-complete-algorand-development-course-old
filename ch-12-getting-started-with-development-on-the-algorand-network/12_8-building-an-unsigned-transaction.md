@@ -1,4 +1,4 @@
-# Build a transaction
+# Build an Unsigned Transaction Transaction
 
 ## What We Are Going To Do
 In this section we are going to develop a new feature which allows us to build a new transaction. A thing to note is that this feature will not send a transaction. We will develop that logic in the next section.

@@ -1,4 +1,4 @@
-# Creating Accounts
+# Creating an Account
 
 ## What We Are Going To Do
 In this section we will add a feature to our application which allows us to create new Algorand accounts.

@@ -1,4 +1,4 @@
-# Check Account Balance
+# Check an Account Balance
 ## What We Are Going To Do
 In this section we will add functionality that allows us to check an accounts balance.
 

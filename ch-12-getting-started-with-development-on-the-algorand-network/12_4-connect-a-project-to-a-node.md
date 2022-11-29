@@ -1,4 +1,4 @@
-# Connecting to a Node
+# Connecting a Project to a Node
 
 ## What We Are Going To Do
 In this section we will create a helper function which allows us to connect our project to our local Algorand Node.

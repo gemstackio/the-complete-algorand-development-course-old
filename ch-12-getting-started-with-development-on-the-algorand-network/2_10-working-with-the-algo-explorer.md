@@ -1,4 +1,4 @@
-# Working With The Algo Explorer
+# Working With The AlgoExplorer
 
 ## What We Are Going To Do
 In this section we will look at how to use the Algorand Blockchain Explorer "Algo Explorer" to review transaction information.
