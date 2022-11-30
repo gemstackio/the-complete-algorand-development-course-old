@@ -5,7 +5,7 @@
   />
 </p>
 
-# Chapter 12.1: How This will work
+# Chapter 12.1: How This Will Work
 
 Starting with this chapter, we will begin the practical development portion of this course. Moving forward will begin learning how to utilize the Algorand Python SDK to interact with the Algorand network. This chapter, in particular, will focus on getting our development environment set up and configured, creating Algorand accounts, and sending Algo transfer transactions.
 

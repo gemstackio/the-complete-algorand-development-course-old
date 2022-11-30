@@ -37,7 +37,7 @@ def configure_and_execute_asa_freeze_transaction(algod_client, freeze_transactio
 # freeze.py
 # ...
 
-def configure_and_execute_asa_freeze_transaction(algod_client, asset_id,accounts_for_transaction ):
+def configure_and_execute_asa_freeze_transaction(algod_client, asset_id,freeze_transaction_args ):
     unsigned_freeze_transaction = AssetFreezeTxn()
 ```
 6. Next we will set the `sp` and `index`
@@ -45,7 +45,7 @@ def configure_and_execute_asa_freeze_transaction(algod_client, asset_id,accounts
 # freeze.py
 # ...
 
-def configure_and_execute_asa_freeze_transaction(algod_client, asset_id,accounts_for_transaction ):
+def configure_and_execute_asa_freeze_transaction(algod_client, asset_id,freeze_transaction_args ):
     # ...
 
     unsigned_freeze_transaction = AssetFreezeTxn(
@@ -58,7 +58,7 @@ def configure_and_execute_asa_freeze_transaction(algod_client, asset_id,accounts
 # freeze.py
 # ...
 
-def configure_and_execute_asa_freeze_transaction(algod_client, asset_id,accounts_for_transaction ):
+def configure_and_execute_asa_freeze_transaction(algod_client, asset_id, freeze_transaction_args ):
     # ...
 
     unsigned_freeze_transaction = AssetFreezeTxn(
@@ -72,7 +72,7 @@ def configure_and_execute_asa_freeze_transaction(algod_client, asset_id,accounts
 # freeze.py
 # ...
 
-def configure_and_execute_asa_freeze_transaction(algod_client, asset_id,accounts_for_transaction ):
+def configure_and_execute_asa_freeze_transaction(algod_client, asset_id, freeze_transaction_args ):
     # ...
 
     unsigned_freeze_transaction = AssetFreezeTxn(
