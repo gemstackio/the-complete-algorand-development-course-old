@@ -7,6 +7,8 @@
 
 # Chapter 12 - Getting Started With Development On The Algorand Network
 
+This chapter focuses on getting our development environment set up and configured, creating Algorand accounts, and sending Algo transfer transactions.
+
 * [12.1 - How This Will Work](12_1-how-this-will-work.md)
 * [12.2 - Installations](12_2-installations.md)
 * [12.3 - Starting An Algorand Node](12_3-starting-an-algorand-node.md)
