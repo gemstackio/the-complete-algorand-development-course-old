@@ -7,6 +7,4 @@
 
 # Chapter 13.1: How This will work
 
-The Algorand protocol supports the creation of on-chain assets that benefit from the same security, compatibility, speed and ease of use as the Algo. The official name for assets on Algorand is Algorand Standard Assets (ASA).
-
-In this chapter we will utilize the Python Algorand SDK to create ASAs.
+The Algorand protocol supports the creation of on-chain assets that benefit from the same security, compatibility, speed, and ease of use as the Algo. The official name for assets on the Algorand network is Algorand Standard Assets (ASA). This chapter will utilize the Python Algorand SDK to create ASAs.

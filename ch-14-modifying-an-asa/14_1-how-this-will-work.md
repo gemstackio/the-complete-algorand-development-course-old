@@ -7,4 +7,4 @@
 
 # Chapter 14.1: How This Will Work
 
-After an asset has been created only the manager, reserve, freeze and clawback accounts are mutable, all other fields are immutable for the life of the ASA. In this chapter we will develop logic that allows us to modify the mutable fields of an existing ASA.
+After an asset has been created, only the manager, reserve, freeze, and clawback accounts are mutable. All other fields are immutable for the life of the ASA. In this chapter, we will develop logic that allows us to modify the mutable fields of an existing ASA.

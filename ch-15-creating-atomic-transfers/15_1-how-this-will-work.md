@@ -7,10 +7,4 @@
 
 # Chapter 15.1: How This Will Work
 
-In this chapter we will learn how to develop logic that utilizes the Python AlgoSDK `AssetTransferTxn` class which allows an account to opt-in to a specific ASA and then have it transferred to their account.
-
-Also explain that we are going to build an Atomic Transfer and what that is.
-
-`Atomic Transfers` allow you to group transaction that either all succeed or fail. In our current use-case we want to execute two transaction together:
-1. That opts an account into a specific ASA
-2. A transaction that transfers a specified amount of ASAs from a creators account to a receivers account.
+This chapter will teach us how to develop logic that utilizes the Python AlgoSDK `AssetTransferTxn` class. This class enables us to build transaction logic that can either an account opt-in to receive a specific ASA or transfer a particular amount of an ASA from one account to another. With this knowledge, we will learn how to bundle multiple transactions into one `Atomic Transfer`, allowing us to group transactions that either succeed or fail.
