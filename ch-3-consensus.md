@@ -5,7 +5,7 @@
   />
 </p>
 
-# Consensus
+# Chapter 3: Consensus
 
 In this chapter, engineers will discuss consensus and two types of mechanisms, nodes, and transactions.
 
@@ -20,7 +20,7 @@ In this chapter, engineers will discuss consensus and two types of mechanisms, n
 
 ## Table of Contents
 
-- [Consensus](#consensus)
+- [Chapter 3: Consensus](#chapter-3-consensus)
   - [Learning Objectives](#learning-objectives)
   - [Table of Contents](#table-of-contents)
   - [What is Consensus?](#what-is-consensus)

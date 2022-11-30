@@ -5,7 +5,7 @@
   />
 </p>
 
-# Crypto Wallets
+# Chapter 6: Crypto Wallets
 
 In this chapter, engineers will learn about wallets and their use-case when it comes to storing cryptocurrency.
 
@@ -17,7 +17,7 @@ In this chapter, engineers will learn about wallets and their use-case when it c
 
 ## Table of Contents
 
-- [Crypto Wallets](#crypto-wallets)
+- [Chapter 6: Crypto Wallets](#chapter-6-crypto-wallets)
   - [Learning Objectives](#learning-objectives)
   - [Table of Contents](#table-of-contents)
   - [What is a Crypto Wallet?](#what-is-a-crypto-wallet)

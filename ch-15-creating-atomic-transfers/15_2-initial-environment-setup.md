@@ -1,4 +1,4 @@
-# 15.2: Initial Environment Setup
+# Chapter 15.2: Initial Environment Setup
 
 In this section we will setup our initial environment so by creating our project structure and copying over some pre-existing files.
 

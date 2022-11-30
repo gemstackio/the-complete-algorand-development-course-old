@@ -5,7 +5,7 @@
   />
 </p>
 
-# Cryptocurrency
+# Chapter 5: Cryptocurrency
 
 In this chapter, engineers will be learning about cryptocurrency and its advantages and disadvantages.
 
@@ -18,10 +18,10 @@ In this chapter, engineers will be learning about cryptocurrency and its advanta
 
 ## Table of Contents
 
-- [Cryptocurrency](#cryptocurrency)
+- [Chapter 5: Cryptocurrency](#chapter-5-cryptocurrency)
   - [Learning Objectives](#learning-objectives)
   - [Table of Contents](#table-of-contents)
-  - [Cryptocurrency](#cryptocurrency-1)
+  - [Cryptocurrency](#cryptocurrency)
     - [Altcoins](#altcoins)
   - [Advantages of Cryptocurrency](#advantages-of-cryptocurrency)
   - [Disadvantages of Cryptocurrency](#disadvantages-of-cryptocurrency)

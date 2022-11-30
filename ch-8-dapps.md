@@ -5,7 +5,7 @@
   />
 </p>
 
-# dApps
+# Chapter 8: dApps
 
 In this chapter, engineers will learn exactly what dApps (decentralized applications) are and their advantages and disadvantages.
 
@@ -16,7 +16,7 @@ In this chapter, engineers will learn exactly what dApps (decentralized applicat
 
 ## Table of Contents
 
-- [dApps](#dapps)
+- [Chapter 8: dApps](#chapter-8-dapps)
   - [Learning Objectives](#learning-objectives)
   - [Table of Contents](#table-of-contents)
   - [What are dApps?](#what-are-dapps)

@@ -5,7 +5,7 @@
   />
 </p>
 
-# History of BlockChain
+# Chapter 1: History of BlockChain
 
 In this chapter, engineers will become familiar with the history of blockchain technology, gain knowledge of its characteristics and intricacies, and understand why blockchain is relevant in the modern era.
 
@@ -18,7 +18,7 @@ In this chapter, engineers will become familiar with the history of blockchain t
 
 ## Table of Contents
 
-- [History of BlockChain](#history-of-blockchain)
+- [Chapter 1: History of BlockChain](#chapter-1-history-of-blockchain)
   - [Learning Objectives](#learning-objectives)
   - [Table of Contents](#table-of-contents)
   - [The Creation of Bitcoin](#the-creation-of-bitcoin)

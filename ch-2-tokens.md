@@ -5,7 +5,7 @@
   />
 </p>
 
-# Tokens
+# Chapter 2: Tokens
 
 In this chapter, engineers will explore the different types of tokens and their functions within the blockchain ecosystem.
 
@@ -19,7 +19,7 @@ In this chapter, engineers will explore the different types of tokens and their 
 
 ## Table of Contents
 
-- [Tokens](#tokens)
+- [Chapter 2: Tokens](#chapter-2-tokens)
   - [Learning Objectives](#learning-objectives)
   - [Table of Contents](#table-of-contents)
   - [What is a Token?](#what-is-a-token)
@@ -91,4 +91,3 @@ Security Token
 
 Token
 : A type of cryptocurrency that represents an asset or specific use and reside on a blockchain.
-

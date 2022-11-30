@@ -5,7 +5,7 @@
   />
 </p>
 
-# Common Blockchain Applications
+# Chapter 7: Smart Contracts
 
 In this chapter, engineers will be learning about smart contracts and how they operate within dApps and on the blockchain.
 
@@ -16,7 +16,7 @@ In this chapter, engineers will be learning about smart contracts and how they o
 
 ## Table of Contents
 
-- [Common Blockchain Applications](#common-blockchain-applications)
+- [Chapter 7: Smart Contracts](#chapter-7-smart-contracts)
   - [Learning Objectives](#learning-objectives)
   - [Table of Contents](#table-of-contents)
   - [What is a Smart Contract?](#what-is-a-smart-contract)

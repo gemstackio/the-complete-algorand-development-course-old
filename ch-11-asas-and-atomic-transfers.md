@@ -17,14 +17,14 @@
 - [Chapter 11: ASA's and Atomic Transfers](#chapter-11-asas-and-atomic-transfers)
   - [Learning Objectives](#learning-objectives)
   - [Table of Contents](#table-of-contents)
-  - [What is an ASA?](#what-is-an-asa)
+  - [Chapter 11: What is an ASA?](#chapter-11-what-is-an-asa)
   - [Types of ASA's](#types-of-asas)
   - [Creation of an ASA](#creation-of-an-asa)
   - [What are Atomic Transfers?](#what-are-atomic-transfers)
   - [Resources](#resources)
   - [Glossary](#glossary)
 
-## What is an ASA?
+## Chapter 11: What is an ASA?
 
 `Algorand Standard Assets (ASAs)` are custom, on-chain assets that can represent many different things; stable coins, loyalty points, system credits, in-game points, a deed for a house, collectible items, or even supply chain items. ASA's can represent many different things, and in turn, various types of ASA's exist on the Algorand Network.
 

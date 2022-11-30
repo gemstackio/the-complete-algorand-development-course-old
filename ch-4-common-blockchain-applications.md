@@ -5,7 +5,7 @@
   />
 </p>
 
-# Common Blockchain Applications
+# Chapter 4: Common Blockchain Applications
 
 In this chapter, engineers will be discussing four of the typical blockchain applications and some examples of each.
 
@@ -19,7 +19,7 @@ In this chapter, engineers will be discussing four of the typical blockchain app
 
 ## Table of Contents
 
-- [Common Blockchain Applications](#common-blockchain-applications)
+- [Chapter 4: Common Blockchain Applications](#chapter-4-common-blockchain-applications)
   - [Learning Objectives](#learning-objectives)
   - [Table of Contents](#table-of-contents)
   - [DeFi](#defi)
