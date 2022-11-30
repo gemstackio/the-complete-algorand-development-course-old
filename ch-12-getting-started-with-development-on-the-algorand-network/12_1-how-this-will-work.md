@@ -6,15 +6,18 @@
 </p>
 
 # Chapter 12.1: How This will work
-<!-- Basically want to use this section to explain to student how we will be setting up our development environment moving forward. -->
-<!-- The big thing to point out here is that we will have a module for each portion of our logic which we will stich together in our main.py file to perform all our logic. -->
-<!-- Is probably a good idea to even show students what the completed code will look like and how it will run so that they have a complete picture of what to expect at a high-level -->
-It is important to explain that during the next portion of the course we are going to build out a lot of logic which will all work in tandem. So we are going to architect our files structure in a way that allows us to separate each portion of our logic into different modules which will all be utilized within a `main.py` file.
 
-In this chapter we will be walking through how to start developing on the Algorand network by utilizing the Algorand Python SDK
+Starting with this chapter, we will begin the practical development portion of this course. Moving forward will begin learning how to utilize the Algorand Python SDK to interact with the Algorand network.
 
 
-Also be sure to show the documentation so students know where to find it as an added resource.
 
-Intro the Algorand Discord
-    * We should add this to the textbook
+This chapter, in particular, will focus on getting our development environment set up and configured, creating Algorand accounts, and sending Algo transfer transactions.
+
+## A Thing to Note Moving Forward
+
+Moving forward for chapters 12, 13, 14, 15, and 16, we are going to build out a lot of logic which will all work in tandem. Each chapter will have its own project directory, and each file structure will be architected in a way that allows us to separate each portion of our logic into different modules, which will all be utilized within a `main.py` file.
+
+## Resources
+
+1. [Python Algorand SDK Docs](https://py-algorand-sdk.readthedocs.io/en/latest/)
+2. [Algorand Discord](https://discord.com/invite/algorand)
