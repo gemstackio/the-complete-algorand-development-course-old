@@ -7,7 +7,13 @@
 
 # Chapter 14 - Modifying An ASA
 
-14.1 - How This Will Work
-14.2 - Initial Environment Setup
-14.3 - Configuring An ASA Modification Transaction
-14.4 - Sending A Configured ASA Modification Transaction
+In this chapter, we will develop logic that allows us to modify the mutable fields of an existing ASA.
+
+## Chapter Content
+
+* [14.1 - How This Will Work](14_1-how-this-will-work.md)
+* [14.2 - Initial Environment Setup](14_2-initial-environment-setup.md)
+* [14.3 - Configuring An ASA Modification Transaction](14_3-configure-an-asa-modification-transaction.md)
+* [14.4 - Sending A Configured ASA Modification Transaction](14_4-send-configured-asa-modification-transaction.md)
+* [Chapter 14 Assignment](ch-14-assignment.md)
+* [Chapter 14 Solution Code](solution-code/)

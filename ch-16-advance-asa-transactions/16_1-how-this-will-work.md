@@ -7,4 +7,4 @@
 
 # Chapter 16.1: How This Will Work
 
-This chapter will teach us how to develop advanced ASA transaction logic that utilizes the Python AlgoSDK `AssetConfigTxn`, `AssetTransferTxn`, and `AssetFreezeTxn` classes to freeze, delete, and revoke an ASA. 
+This chapter will teach us how to develop advanced ASA transaction logic that utilizes the Python AlgoSDK `AssetConfigTxn`, `AssetTransferTxn`, and `AssetFreezeTxn` classes to freeze, delete, and revoke an ASA.

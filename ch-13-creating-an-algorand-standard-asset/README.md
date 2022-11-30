@@ -7,7 +7,13 @@
 
 # Chapter 13 - Creating An Algorand Standard Asset
 
-13.1 - How This Will Work
-13.2 - Initial Environment Setup
-13.3 - Create And Configure An ASA Transaction
-13.4 - Sending A Configured ASA Transaction
+This chapter will utilize the Python Algorand SDK to create ASAs.
+
+## Chapter Content
+
+* [13.1 - How This Will Work](13_1-how-this-will-work.md)
+* [13.2 - Initial Environment Setup](13_2-initial-environment-setup.md)
+* [13.3 - Create And Configure An ASA Transaction](13_3-create-and-configure-an-asa-transaction.md)
+* [13.4 - Sending A Configured ASA Transaction](13_4-send-an-asa-configuration-transaction.md)
+* [Chapter 13 Assignment](ch-13-assignment.md)
+* [Chapter 13 Solution Code](solution-code/)

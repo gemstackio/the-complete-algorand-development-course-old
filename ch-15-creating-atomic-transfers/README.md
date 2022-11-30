@@ -7,10 +7,16 @@
 
 # Chapter 15 - Creating Atomic Transfers
 
-15.1 - How This Will Work
-15.2 - Initial Environment Setup
-15.3 - Checking Account Info
-15.4 - Check If An Account Is Opted-In
-15.5 - Configure ASA Transfer Transactions
-15.6 - Configure An Atomic Transfer
-15.7 - Execute An Atomic Transfer
+This chapter will teach us how to develop logic that utilizes the Python AlgoSDK `AssetTransferTxn` class.
+
+## Chapter Content
+
+* [15.1 - How This Will Work](15_1-how-this-will-work.md)
+* [15.2 - Initial Environment Setup](15_2-initial-environment-setup.md)
+* [15.3 - Checking Account Info](15_3-checking-account-info.md)
+* [15.4 - Check If An Account Is Opted-In](15_4-check-if-an-account-is-opted-in.md)
+* [15.5 - Configure ASA Transfer Transactions](15_5-configure-asa-transfer-transactions.md)
+* [15.6 - Configure An Atomic Transfer](15_6-configure-an-atomic-transaction.md)
+* [15.7 - Execute An Atomic Transfer](15_7-executing-an-atomic-transfer.md)
+* [Chapter 15 Assignment](ch-15-assignment.md)
+* [Chapter 15 Solution Code](solution-code/)
