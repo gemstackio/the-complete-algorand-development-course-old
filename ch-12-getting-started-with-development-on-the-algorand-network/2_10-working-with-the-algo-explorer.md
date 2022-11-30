@@ -10,9 +10,6 @@
 ## What We Are Going To Do
 In this section we will look at how to use the Algorand Blockchain Explorer "Algo Explorer" to review transaction information.
 
-<!-- Transaction ID to use: Q2FDHAGLGCLKBFFPOW5I7QJBIYXNXOOYOBJUDDCDEZYI2S5A7YPA -->
-
-
 ## Do It
 1. Open your browser and navigate to the [Algo Explorer](https://testnet.algoexplorer.io/) website
 2. Copy your transaction ID from the last section `Q2FDHAGLGCLKBFFPOW5I7QJBIYXNXOOYOBJUDDCDEZYI2S5A7YPA`

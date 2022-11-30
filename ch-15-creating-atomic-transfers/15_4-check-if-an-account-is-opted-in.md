@@ -13,9 +13,10 @@ In this section we will develop functionality that checks if a provided account 
 
 ## Learning Objective
 
-By the end of this section student should be able to
+By the end of this section student should be able to develop functionality that checks if a provided account is opted-in to receive a specific ASA or not.
 
 ## Getting Started
+
 1. Open the `main.py` and comment out the `print()` statement:
 ```python
 # main.py

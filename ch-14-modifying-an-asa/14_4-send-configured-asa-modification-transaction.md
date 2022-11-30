@@ -13,9 +13,10 @@ In this section we will sign and send an configured ASA modification transaction
 
 ## Learning Objective
 
-By the end of this section student should be able to
+By the end of this section student should be able to sign and send an configured ASA modification transaction.
 
 ## Getting Started
+
 1. First we need to sign the transaction that our `configure_transaction_to_update_asset()` function returns:
 ```python
 # main.py

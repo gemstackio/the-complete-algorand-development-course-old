@@ -6,6 +6,7 @@
 </p>
 
 # Chapter 14.2: Initial Environment Setup
+
 In this section we will learn how to utilize the `AssetConfigTxn` class to modify an existing ASA. It's important to remember that when modifying an ASA, you can only change the following fields:
 1. Manager Address
 2. Reserve Address
@@ -20,9 +21,10 @@ In this section we will setup our initial environment so by creating our project
 
 ## Learning Objective
 
-By the end of this section student should be able to
+By the end of this section student should be able to utilize the `AssetConfigTxn` class to modify an existing ASA.
 
 ## Getting Started
+
 1. If your sandbox is not already running, navigate into your `sandbox` directory and start it:
 
 ```sh

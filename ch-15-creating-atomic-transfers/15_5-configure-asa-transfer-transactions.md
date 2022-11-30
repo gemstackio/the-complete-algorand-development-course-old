@@ -13,9 +13,10 @@ In this video we will develop logic that utilizes the `AssetTransferTxn` class t
 
 ## Learning Objective
 
-By the end of this section student should be able to
+By the end of this section student should be able to develop logic that utilizes the `AssetTransferTxn` class to create opt-in and ASA transfer transactions.
 
 ## Develop the ASA Transfer Configuration Logic
+
 1. Created a new file called `configure.py`:
 ```sh
 touch configure.py

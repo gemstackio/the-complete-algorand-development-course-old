@@ -13,7 +13,7 @@ In this section we will build a function to that will configure a transaction to
 
 ## Learning Objective
 
-By the end of this section student should be able to
+By the end of this section student should be able to configure a transaction to change the `Manager` and `Reserve` address of an existing ASA.
 
 ## Getting Started
 1. Open the `main.py` and create a variable called `asset_id` and set it's value equals to the id of the asset we created in the last chapter:

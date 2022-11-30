@@ -8,6 +8,7 @@ In this section we will setup our initial environment so by creating our project
 By the end of this section student should be able to stand up a basic Python AlgoSDK project.
 
 ## Getting Started
+
 1. If your sandbox is not already running, navigate into your `sandbox` directory and start it:
 ```sh
 cd ~/algorand-development/sandbox/;

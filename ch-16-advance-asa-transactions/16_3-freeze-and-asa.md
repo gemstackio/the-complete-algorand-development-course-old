@@ -14,6 +14,7 @@ In this section we will build a functionality that creates, configures, signs, a
 By the end of this section student should be able to configure and execute a transaction that freezes an ASA.
 
 ## Configure The Transaction
+
 1. Created a new file called `freeze.py`:
 ```sh
 touch freeze.py

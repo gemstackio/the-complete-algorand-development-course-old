@@ -6,6 +6,7 @@
 </p>
 
 # Chapter 16.2: Initial Environment Setup
+
 In this section we will learn how to utilize the `AssetFreezeTxn` class to create a transaction that freezes an ASA.
 
 ## What We Are Going To Do
@@ -14,7 +15,7 @@ In this section we will setup our initial environment so by creating our project
 
 ## Learning Objective
 
-By the end of this section student should be able to
+By the end of this section student should be able to utilize the `AssetFreezeTxn` class to create a transaction that freezes an ASA.
 
 ## Start Your Node:
 

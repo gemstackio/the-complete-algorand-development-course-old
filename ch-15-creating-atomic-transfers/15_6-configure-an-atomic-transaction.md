@@ -17,7 +17,7 @@ In this video we will develop logic that allows us to group a ASA opt-in and ASA
 
 ## Learning Objective
 
-By the end of this section student should be able to
+By the end of this section student should be able to develop logic that allows us to group a ASA opt-in and ASA transfer transactions into a single Atomic Transfer.
 
 ## Develop Logic to Configure an Atomic Transfer Transaction
 

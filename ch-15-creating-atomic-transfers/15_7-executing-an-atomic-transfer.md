@@ -17,7 +17,7 @@ We will expand our conditional logic so if an account is opted in to the specifi
 
 ## Learning Objective
 
-By the end of this section student should be able to
+By the end of this section student should be able to develop logic that either sends a single transaction or an Atomic Transfer.
 
 ## Update the send_configured_transaction Function
 1. Within the `main.py` file create a variable called `confirmed_atomic_transfer` and set it equal to the `send_configured_transaction()` function with the following arguments:

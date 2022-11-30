@@ -9,11 +9,11 @@
 
 ## What We Are Going To Do
 
-In this section we will learn how to start
+In this section we will look at how to develop logic that will send a configured ASA transaction.
 
 ## Learning Objective
 
-By the end of this section student should be able to
+By the end of this section student should be able to develop logic that will send a configured ASA transaction.
 
 ## Getting Started
 1. First we need to sign the transaction that our `create_asset_transaction()` function returns:
