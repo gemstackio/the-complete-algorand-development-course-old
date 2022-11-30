@@ -5,7 +5,7 @@
   />
 </p>
 
-# Chapter 15.2: Checking Account Info
+# Chapter 15.3: Checking Account Info
 
 In this section we will build logic that allows us to pull account information into our project which we will use later to check in the account is opted-in to hold a specific ASA.
 
