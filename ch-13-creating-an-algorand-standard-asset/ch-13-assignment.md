@@ -5,21 +5,14 @@
   />
 </p>
 
-# Chapter 12 Assignment
+# Chapter 13 Assignment
 
 ## Prompts
 
 Complete the following prompts:
 
-1. Stop your existing Algorand sandbox node
-2. Then delete the algorand sandbox
-3. Reinstall the Algorand sandbox package
-4. Start up the new node
-5. Create a new python project called `chapter-12-assignment`
-6. Within the `chapter-12-assignment` develop logic that create 2 new accounts:
-   1. Account A
-   2. Account B
-7. Store the account information within your project
-8. Fund each account
-9.  Develop new logic that allows you to build and execute a transaction where one account sends another account 5 Algos
-10. View the transaction in the algorand explorer
+1. If required start up your Algorand node
+2. Create a new python project called `chapter-13-assignment`
+3. Within the `chapter-13-assignment` develop logic that creates an ASA
+4. Create 2-3 new ASAs
+5. Then develop logic that allows you to transfer ASA between two accounts
