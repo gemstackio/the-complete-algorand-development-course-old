@@ -5,7 +5,7 @@
   />
 </p>
 
-# Chapter 14.2: Configure an ASA Update Transaction
+# Chapter 14.3: Configure an ASA Update Transaction
 
 ## What We Are Going To Do
 

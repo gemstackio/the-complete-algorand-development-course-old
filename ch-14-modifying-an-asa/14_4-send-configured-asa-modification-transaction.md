@@ -5,7 +5,7 @@
   />
 </p>
 
-# Chapter 14.3: Send a Configured Transaction to Modify an ASA
+# Chapter 14.4: Send a Configured Transaction to Modify an ASA
 
 ## What We Are Going To Do
 

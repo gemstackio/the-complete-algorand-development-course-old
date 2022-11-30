@@ -5,7 +5,7 @@
   />
 </p>
 
-# Chapter 14.1: Initial Environment Setup
+# Chapter 14.2: Initial Environment Setup
 In this section we will learn how to utilize the `AssetConfigTxn` class to modify an existing ASA. It's important to remember that when modifying an ASA, you can only change the following fields:
 1. Manager Address
 2. Reserve Address
