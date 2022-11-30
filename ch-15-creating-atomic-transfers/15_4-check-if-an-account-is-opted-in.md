@@ -38,7 +38,6 @@ touch check_if.py
      2. `provided_asset_id`
 ```python
 # check_if.py
-# ...
 
 def is_account_opted_in(account_assets, provided_asset_id):
 ```

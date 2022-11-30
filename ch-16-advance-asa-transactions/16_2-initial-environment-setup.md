@@ -37,20 +37,18 @@ mkdir chapter-16-advance-asa-transactions;
 3. Copy the `account_details.py` and `utility_functions.py` files from within your `chapter-15` directory into your newly created `chapter-16` directory:
 ```sh
 cp ./chapter-15-atomic-transfer/account_details.py chapter-16-advance-asa-transactions;
-
 cp ./chapter-15-atomic-transfer/utility_functions.py chapter-16-advance-asa-transactions;
 cp ./chapter-15-atomic-transfer/send.py chapter-16-advance-asa-transactions;
 ```
-```
-5. Inside the `chapter-16` directory create a `main.py` file:
+4. Inside the `chapter-16` directory create a `main.py` file:
 ```sh
 touch ./chapter-16-advance-asa-transactions/main.py
 ```
-6. Open the `chapter-16` directory within your text editor:
+5. Open the `chapter-16` directory within your text editor:
 ```sh
 code ./chapter-16-advance-asa-transactions;
 ```
-1. Open the `main.py` and import the `account_details` module and `algo_client_connection()`function:
+6. Open the `main.py` and import the `account_details` module and `algo_client_connection()`function:
 ```python
 # main.py
 
@@ -58,7 +56,7 @@ from account_details import accounts
 from utility_functions import algo_client_connection
 
 ```
-8. Initialize an Algo Client:
+7. Initialize an Algo Client:
 ```python
 # main.py
 # ...
