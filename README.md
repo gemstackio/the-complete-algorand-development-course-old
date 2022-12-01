@@ -23,19 +23,17 @@ You can **register here** for [The Complete Algorand Network Development Course]
 
 Happy Hacking and Welcome to the Algorand Network.
 
+## Course Structure
+
+This course is broken out into 3 Units.
+
+1. [Blockchain & Crypto Basics](#unit-1-blockchain--crypto-basics)
+2. [An Introduction to the Algorand Network](#unit-2-algorand-network-introduction)
+3. [Practical Development with the Algorand Network](#unit-3-practical-development-with-algorand-network)
+
 ## Unit 1: Blockchain & Crypto Basics
-In this Unit, we will be covering the functions, use cases, and applications of blockchain technology. This will include the basics of crypto-currencies, transactions/consensus, and the type of crypto applications that are utilized on a blockchain.
 
-### Unit Learning Objectives
-
-* Define what a blockchain is and its basic functions
-* Define the structure of a blockchain
-* Understand common features of a blockchain
-* Understand common use cases of a blockchain and its history
-* Understand and be able to explain what Consensus is and its purpose
-* Understand transactions and how currency is transferred
-* Understand decentralized applications and the contracts they operate on
-* Be able to discuss and define the different types of Blockchain applications
+Engineers will start by exploring blockchain history while diving into some core principles, methodologies, functions, use cases, and applications that can be designed and developed with blockchain technologies. Then we will look at the basics of cryptocurrencies, transactions, consensus mechanisms, and the common types of blockchain applications.
 
 ### Module 1: Blockchain Basics
 
@@ -62,13 +60,7 @@ In this module, engineers will be learning about dApps (decentralized applicatio
 
 ## Unit 2: Algorand Network Introduction
 
-In this Unit, engineers will be introduced to the Algorand Network, and how it differs from other blockchain.
-
-### Unit Learning Objectives
-
-* Identify and explain how the Algorand Network differs from other blockchains
-* Describe and discuss the advantages of the Algorand Network
-* Understand the common features of the Algorand Network
+Engineers will be introduced to the Algorand Network in this unit and how it differs from other blockchains. We will explore the founding principles of the network, who the founder is, the types of fees charged to utilize the network, and the overall performance of the network.
 
 * [Chapter 9: What Makes The Algorand Network Different](./ch-1-what-makes-algorand-different.md)
 * [Chapter 10: The Consensus Protocol](./ch-2-consensus-protocol.md)
@@ -76,15 +68,7 @@ In this Unit, engineers will be introduced to the Algorand Network, and how it d
 
 ## Unit 3: Practical Development With Algorand Network
 
-In this Unit, engineers will be transitioning to practical development on the Algorand Network utilizing PyTeal. Engineers will learn to handle transactions, work with ASAs, create smart contracts and deploy their dApp.
-
-### Unit Learning Objectives
-
-* Setup and understand their development environment
-* Develop various token types on the Algorand Network
-* Work with Algorand Standard Assets
-* Design and develop smart contracts with PyTEAL and Algo Builder
-* Develop and deploy a dApp on the Algorand Network with React and AlgoSigner
+Engineers transition into practical development on the Algorand Network using tools such as the Algorand SDK (Python and JavaScript), PyTeal, Algo Builder, AlgoSigner, React, and much more. These tools will enable engineers to design and develop Algorand Standard Assets such as NFTs, smart contracts, and dApps. This unit will be a hands-on learning experience complete with assignments to reinforce engineers' learning. 
 
 ### Module 1: Getting Started
 
@@ -94,6 +78,15 @@ In this Unit, engineers will be transitioning to practical development on the Al
 * [Chapter 15: Creating Atomic Transfers](./ch-15-creating-atomic-transfers/README.md)
 * [Chapter 16: Advance ASA Actions](./ch-16-advance-asa-transactions/README.md)
 
-### Capstone Project
+### Module 2: Smart Contract Development - Coming Soon
 
-The project description goes here.
+* Chapter 17 - Intro to Algo Builder
+* Chapter 18 - ASAs and Algo Builder
+* Chapter 19 - Developing Smart Contract with Algo Builder
+* Videos
+* Chapter 20 - Deploy Smart Contract with Algo Builder
+* Video
+
+### Module 3: dApp Development - Coming Soon
+
+* Chapter 21 - Develop a dApp with React and AlgoSigner
